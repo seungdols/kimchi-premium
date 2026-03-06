@@ -1,7 +1,7 @@
 {
   "name": "kimchi-premium",
   "version": "1.0.0",
-  "description": "Calculate Bitcoin Kimchi Premium (Upbit vs Binance)",
+  "description": "비트코인 김치 프리미엄 실시간 계산기 - 업비트(KRW)와 바이낸스(USD) 가격 비교 및 프리미엄(%) 산출",
   "main": "index.mjs",
   "type": "module",
   "scripts": {

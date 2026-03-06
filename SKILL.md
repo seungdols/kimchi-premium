@@ -3,6 +3,11 @@ name: kimchi-premium
 version: 1.0.0
 description: Calculate Bitcoin Kimchi Premium (Upbit vs Binance)
 author: seungdols
+permissions:
+  network:
+    - open.er-api.com
+    - api.upbit.com
+    - api.binance.com
 ---
 
 # Kimchi Premium 🌶️

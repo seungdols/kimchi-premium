@@ -1,7 +1,7 @@
 {
   "name": "kimchi-premium",
   "version": "1.0.0",
-  "description": "Calculate Bitcoin Kimchi Premium (Upbit vs Binance)",
+  "description": "Real-time Bitcoin Kimchi Premium calculator - compares Upbit (KRW) and Binance (USD) prices to calculate the premium percentage",
   "main": "index.mjs",
   "type": "module",
   "scripts": {
@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/seungdols/kimchi-premium#readme",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=25.0.0"
   }
 }

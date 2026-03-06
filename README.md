@@ -70,7 +70,7 @@ Add this skill to your OpenClaw skills directory and run:
 
 ## Requirements
 
-- Node.js >= 18.0.0
+- Node.js >= 25.0.0
 - 인터넷 연결 (3개 외부 API 호출 필요)
 
 ## How It Works

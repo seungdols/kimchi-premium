@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/seungdols/kimchi-premium#readme",
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=25.0.0"
   }
 }

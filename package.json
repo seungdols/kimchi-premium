@@ -2,10 +2,12 @@
   "name": "kimchi-premium",
   "version": "1.0.0",
   "description": "Calculate Bitcoin Kimchi Premium (Upbit vs Binance)",
-  "main": "index.js",
+  "main": "index.mjs",
+  "type": "module",
   "scripts": {
-    "start": "node index.js",
-    "test": "node index.js"
+    "start": "node index.mjs",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/index.test.mjs"
   },
   "keywords": [
     "bitcoin",
@@ -27,6 +29,6 @@
   },
   "homepage": "https://github.com/seungdols/kimchi-premium#readme",
   "engines": {
-    "node": ">=14.0.0"
+    "node": ">=18.0.0"
   }
 }
